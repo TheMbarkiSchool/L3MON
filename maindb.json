@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "username": "mbkprog",
+    "password": "12345678",
+    "loginToken": "",
+    "logs": [],
+    "ipLog": []
+  },
+  "clients": []
+}
